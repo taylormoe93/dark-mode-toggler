@@ -1,5 +1,5 @@
 # dark-mode-toggler
-Dark mode toggle for my resume project. Featuring sun and moon rotation animation in javascript. Building and testing it in separate repository.
+Dark mode toggle for website. Featuring sun and moon rotation animation in Javascript. 
 
 # Current state:
    * Works in Codeswing but when hosted CSS and Javascript are not working. Troubleshooting this.
